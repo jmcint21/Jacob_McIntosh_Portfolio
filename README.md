@@ -9,6 +9,10 @@ Data Science Portfolio
 * Learing feature relationships using (scatterplot, heatmap correlation, pairplot and groupby comparisons)
 * Asked personal question about the data and then attempted to solve it.
 
+![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/exp1.png)
+![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/exp2.png)
+
+
 # [Economic Data Analysis Pactice: Project Overview](https://github.com/jmcint21/economic-data-analysis)
 * Performed a data analysis using FredAPI and Pandas
 * Got FredAPI key and imported librarys
@@ -17,6 +21,10 @@ Data Science Portfolio
 * Joined multiple indicators to the same data series
 * Plotted data using different charts
 * Compared Unemployment vs Participation indicators
+
+![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/econ%20plot.png)
+![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/econ2.png)
+
 
 # [Time Series Practice: Project Overview](https://github.com/jmcint21/time-series-practice)
 * Using Python and Machine Learning to predict energy consumption.
@@ -28,8 +36,16 @@ Data Science Portfolio
 * Created plot to show the importance of each feature.
 * Created a forecast to see how the data would change over time.
 
+![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/time1.png)
+![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/time2.png)
+![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/time3.png)
+
+
 # [Market Sentiment Analysis: Project Overview](https://github.com/jmcint21/market-sentiment-analysis-practice)
 * Read in data and got familiar with basics of NLTK
 * Created charts based on Amazon reviews
 * VADER Sentiment Scoring model
 * Used NLTK's SentimentInstensityAnalyzer to get neg/neu/pos
+
+![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/mar1.png)
+![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/mar2.png)
