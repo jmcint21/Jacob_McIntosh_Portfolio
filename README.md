@@ -9,8 +9,8 @@ Data Science Portfolio
 * Learing feature relationships using (scatterplot, heatmap correlation, pairplot and groupby comparisons)
 * Asked personal question about the data and then attempted to solve it.
 
-![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/exp1.png)
-![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/exp2.png)
+![](/images/exp1.png)
+![](/images/exp2.png)
 
 
 # [Economic Data Analysis Pactice: Project Overview](https://github.com/jmcint21/economic-data-analysis)
@@ -36,9 +36,9 @@ Data Science Portfolio
 * Created plot to show the importance of each feature.
 * Created a forecast to see how the data would change over time.
 
-![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/time1.png)
-![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/time2.png)
-![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/time3.png)
+![](/images/time1.png)
+![](/images/time2.png)
+![](/images/time3.png)
 
 
 # [Market Sentiment Analysis: Project Overview](https://github.com/jmcint21/market-sentiment-analysis-practice)
@@ -47,5 +47,5 @@ Data Science Portfolio
 * VADER Sentiment Scoring model.
 * Used NLTK's SentimentInstensityAnalyzer to get neg/neu/pos.
 
-![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/mar1.png)
-![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/mar2.png)
+![](/images/mar1.png)
+![](images/mar2.png)
