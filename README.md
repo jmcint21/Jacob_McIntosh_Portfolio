@@ -1,5 +1,5 @@
-# jacob_mcintosh_portfolio
-Data Science Portfolio
+# Jacob McIntosh's Data Science Portfolio
+
 
 # [Exploratory Analysis Practice Overivew:](https://github.com/jmcint21/exploratory-analysis-practice)
 * Importing and Reading Data.
