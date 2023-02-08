@@ -22,8 +22,8 @@ Data Science Portfolio
 * Plotted data using different charts.
 * Compared Unemployment vs Participation indicators.
 
-![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/econ%20plot.png)
-![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/econ2.png)
+![](/images/econ%20plot.png)
+![](/images/econ2.png)
 
 
 # [Time Series Practice: Project Overview](https://github.com/jmcint21/time-series-practice)
