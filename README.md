@@ -14,13 +14,13 @@ Data Science Portfolio
 
 
 # [Economic Data Analysis Pactice: Project Overview](https://github.com/jmcint21/economic-data-analysis)
-* Performed a data analysis using FredAPI and Pandas
-* Got FredAPI key and imported librarys
-* Searched for specific economic indicators using the API
-* Pulled and cleaned economic data
-* Joined multiple indicators to the same data series
-* Plotted data using different charts
-* Compared Unemployment vs Participation indicators
+* Performed a data analysis using FredAPI and Pandas.
+* Got FredAPI key and imported librarys.
+* Searched for specific economic indicators using the API.
+* Pulled and cleaned economic data.
+* Joined multiple indicators to the same data series.
+* Plotted data using different charts.
+* Compared Unemployment vs Participation indicators.
 
 ![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/econ%20plot.png)
 ![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/econ2.png)
@@ -42,10 +42,10 @@ Data Science Portfolio
 
 
 # [Market Sentiment Analysis: Project Overview](https://github.com/jmcint21/market-sentiment-analysis-practice)
-* Read in data and got familiar with basics of NLTK
-* Created charts based on Amazon reviews
-* VADER Sentiment Scoring model
-* Used NLTK's SentimentInstensityAnalyzer to get neg/neu/pos
+* Read in data and got familiar with basics of NLTK.
+* Created charts based on Amazon reviews.
+* VADER Sentiment Scoring model.
+* Used NLTK's SentimentInstensityAnalyzer to get neg/neu/pos.
 
 ![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/mar1.png)
 ![](https://github.com/jmcint21/jacob_mcintosh_portfolio/blob/main/images/mar2.png)
